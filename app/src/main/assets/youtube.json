@@ -1,0 +1,1456 @@
+{
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7BwwnG8vvoVailcvj-TNkMeyeFE",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-12-15T19:34:22Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "Имом Бухорий юрти болажонлари учун ажойиб туҳфа!",
+        "description": "Islom.uz портали «Қуръонда келган инсонлар қиссаси»дан сўнг Имом Бухорий юрти болажонлари учун ажойиб туҳфани тақдим қилади!\n\nIslom.uz портали ва унинг ижтимоий тармоқларида, муҳаддислар имоми - Имом Бухорий раҳматуллоҳи алайҳнинг ҳаётлари ҳақида ҳикоя қилувчи ўттиз қисмдан иборат мултфилмни тақдим қилиб боради.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mhUZOHwwOYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mhUZOHwwOYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mhUZOHwwOYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mhUZOHwwOYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mhUZOHwwOYQ"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sccWH39zoA0ZFgTgfNMlK-C9aOU",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-04-13T08:01:17Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "1. Imom al-Buxoriy 1-qism | Имом ал-Бухорий 1-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​\nInstagram: https://instagram.com/islomuz​​​\nFacebook: https://facebook/www.islom.uz​​​\nTwitter: https://twitter.com/islomuzofficial​​​\nMedium: https://islomuz.medium.com​​​\nSoundcloud: https://soundcloud.com/islomuz​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U0C9L2OUE0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U0C9L2OUE0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U0C9L2OUE0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U0C9L2OUE0Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U0C9L2OUE0Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U0C9L2OUE0Y"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3WD-pow1PHVMUTQNFuMQpPHObtY",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-04-14T14:15:02Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "2. Imom al-Buxoriy 2-qism | Имом ал-Бухорий 2-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​\nInstagram: https://instagram.com/islomuz​​​\nFacebook: https://facebook/www.islom.uz​​​\nTwitter: https://twitter.com/islomuzofficial​​​\nMedium: https://islomuz.medium.com​​​\nSoundcloud: https://soundcloud.com/islomuz​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/itnvFWScudw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/itnvFWScudw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/itnvFWScudw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/itnvFWScudw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/itnvFWScudw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "itnvFWScudw"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PulESDO_gLvHAWNLTG9-aMbt0kU",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-04-14T00:07:27Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "3. Imom al-Buxoriy 3-qism | Имом ал-Бухорий 3-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​\nInstagram: https://instagram.com/islomuz​​​\nFacebook: https://facebook/www.islom.uz​​​\nTwitter: https://twitter.com/islomuzofficial​​​\nMedium: https://islomuz.medium.com​​​\nSoundcloud: https://soundcloud.com/islomuz​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BJkQsdFMdMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BJkQsdFMdMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BJkQsdFMdMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BJkQsdFMdMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BJkQsdFMdMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BJkQsdFMdMM"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oMLHUXfNBNDcz66NM9UaEcpxazs",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-04-16T07:18:30Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "4. Imom al-Buxoriy 4-qism | Имом ал-Бухорий 4-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​\nInstagram: https://instagram.com/islomuz​​​\nFacebook: https://facebook/www.islom.uz​​​\nTwitter: https://twitter.com/islomuzofficial​​​\nMedium: https://islomuz.medium.com​​​\nSoundcloud: https://soundcloud.com/islomuz​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ttFmhvZUVY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ttFmhvZUVY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ttFmhvZUVY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ttFmhvZUVY0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ttFmhvZUVY0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ttFmhvZUVY0"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8feBGtOgfEOwbUO21bdKIf1EV_E",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-04-16T07:21:21Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "5. Imom al-Buxoriy 5-qism | Имом ал-Бухорий 5-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​\nInstagram: https://instagram.com/islomuz​​​\nFacebook: https://facebook/www.islom.uz​​​\nTwitter: https://twitter.com/islomuzofficial​​​\nMedium: https://islomuz.medium.com​​​\nSoundcloud: https://soundcloud.com/islomuz​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ksmxof3Q0K4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ksmxof3Q0K4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ksmxof3Q0K4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ksmxof3Q0K4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ksmxof3Q0K4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ksmxof3Q0K4"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gFzt6MCo-yTnqEdS7OJvXNl1Vss",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-04-17T11:01:30Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "6. Imom al-Buxoriy 6-qism | Имом ал-Бухорий 6-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oqgo2lNuQ-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oqgo2lNuQ-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oqgo2lNuQ-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oqgo2lNuQ-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oqgo2lNuQ-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oqgo2lNuQ-s"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ci6ADBvbfrCRd4TkysFKM9QwCkI",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-04-18T16:21:14Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "7. Imom al-Buxoriy 7-qism | Имом ал-Бухорий 7-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_qRXOeDxr0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_qRXOeDxr0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_qRXOeDxr0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_qRXOeDxr0o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_qRXOeDxr0o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_qRXOeDxr0o"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tbEhBvd5cMV-D8S-tIHNp26IJTQ",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-04-20T17:42:37Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "8. Imom al-Buxoriy 8-qism | Имом ал-Бухорий 8-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YVbxghEZyus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YVbxghEZyus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YVbxghEZyus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YVbxghEZyus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YVbxghEZyus/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YVbxghEZyus"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qe3aXzoE_uNh-Rf4WmB-L1caybY",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-04-21T07:37:57Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "9. Imom al-Buxoriy 9-qism | Имом ал-Бухорий 9-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MQlhsT0Pp9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MQlhsT0Pp9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MQlhsT0Pp9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MQlhsT0Pp9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MQlhsT0Pp9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MQlhsT0Pp9c"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ggtjpcWXc9l_bDFrzsoSpRfAdZg",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-04-21T07:44:35Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "10. Imom al-Buxoriy 10-qism | Имом ал-Бухорий 10-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xGX8dwCcDc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xGX8dwCcDc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xGX8dwCcDc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xGX8dwCcDc4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xGX8dwCcDc4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xGX8dwCcDc4"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4K9Qux3AUImV5y1kap-RvemkjXo",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-04-23T10:01:39Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "11. Imom al-Buxoriy 11-qism | Имом ал-Бухорий 11-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2gEBF3evyEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2gEBF3evyEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2gEBF3evyEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2gEBF3evyEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2gEBF3evyEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2gEBF3evyEM"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fs-0Bziq1Hcpq4RpuMxgdBs_qP0",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-04-24T09:47:02Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "12. Imom al-Buxoriy 12-qism | Имом ал-Бухорий 12-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MB6SdSwSdfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MB6SdSwSdfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MB6SdSwSdfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MB6SdSwSdfY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MB6SdSwSdfY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MB6SdSwSdfY"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bqiHbSn8tmC0pbWPy3TXCVYaMLc",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-04-25T08:54:41Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "13. Imom al-Buxoriy 13-qism | Имом ал-Бухорий 13-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ab1qbh2nA94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ab1qbh2nA94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ab1qbh2nA94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ab1qbh2nA94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ab1qbh2nA94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ab1qbh2nA94"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rkTnguozF-9ZFGQuUXfeoLUYv1E",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-04-26T10:12:37Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "14. Imom al-Buxoriy 14-qism | Имом ал-Бухорий 14-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1tbFQljHq2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1tbFQljHq2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1tbFQljHq2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1tbFQljHq2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1tbFQljHq2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1tbFQljHq2Q"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dfsFops0jbPxPwLHb_GlEVitHhU",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-04-26T10:15:16Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "15. Imom al-Buxoriy 15-qism | Имом ал-Бухорий 15-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A6cYnclli_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A6cYnclli_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A6cYnclli_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A6cYnclli_U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A6cYnclli_U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A6cYnclli_U"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zw6AbzDAaZqLMLC5yINAEn6RniA",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-04-28T12:41:58Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "16. Imom al-Buxoriy 16-qism | Имом ал-Бухорий 16-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/orILNIKVTHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/orILNIKVTHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/orILNIKVTHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/orILNIKVTHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/orILNIKVTHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "orILNIKVTHg"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CWZz6cejM7e7-kN9OAeUTXwf0w4",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-04-29T05:05:05Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "17. Imom al-Buxoriy 17-qism | Имом ал-Бухорий 17-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2o6485fMLkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2o6485fMLkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2o6485fMLkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2o6485fMLkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2o6485fMLkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2o6485fMLkE"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q950ec_e7SxdaCCrou_ckxW4Bx4",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-05-01T08:44:18Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "19. Imom al-Buxoriy 19-qism | Имом ал-Бухорий 19-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tPKWMo4hMQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tPKWMo4hMQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tPKWMo4hMQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tPKWMo4hMQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tPKWMo4hMQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tPKWMo4hMQ8"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Om71OvPuBPuYp3SOCUsomIrSt30",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-05-01T11:51:17Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "18. Imom al-Buxoriy 18-qism | Имом ал-Бухорий 18-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aGxBSZP-JcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aGxBSZP-JcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aGxBSZP-JcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aGxBSZP-JcE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aGxBSZP-JcE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aGxBSZP-JcE"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L-VuEIwxWL9UOD63IFzc6-P5hFI",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-05-02T07:40:55Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "20. Imom al-Buxoriy 20-qism | Имом ал-Бухорий 20-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z41xVUj12Wc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z41xVUj12Wc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z41xVUj12Wc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z41xVUj12Wc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z41xVUj12Wc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z41xVUj12Wc"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9q8haHCpt0itwrIFoHL5DndaPH0",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-05-03T11:18:03Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "21. Imom al-Buxoriy 21-qism | Имом ал-Бухорий 21-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x8v0ytMuWec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x8v0ytMuWec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x8v0ytMuWec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x8v0ytMuWec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x8v0ytMuWec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x8v0ytMuWec"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8TLTH3vqPR3EDn9jbVrbmSUm6c8",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-05-04T09:49:52Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "22. Imom al-Buxoriy 22-qism | Имом ал-Бухорий 22-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VlgQ252XFLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VlgQ252XFLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VlgQ252XFLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VlgQ252XFLE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VlgQ252XFLE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VlgQ252XFLE"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o0q56F3AXYjElxlj6iTB4LQXOV8",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-05-08T10:52:28Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "23. Imom al-Buxoriy 23-qism | Имом ал-Бухорий 23-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZQ-wzKD1S-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZQ-wzKD1S-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQ-wzKD1S-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZQ-wzKD1S-M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZQ-wzKD1S-M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZQ-wzKD1S-M"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0vIIPiq_p3dh65COTRUkIYB2XLM",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-05-09T14:01:40Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "24. Imom al-Buxoriy 24-qism | Имом ал-Бухорий 24-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон​ #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ec6oBYSqaxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ec6oBYSqaxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ec6oBYSqaxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ec6oBYSqaxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ec6oBYSqaxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ec6oBYSqaxY"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nWRg5_xXVizR7nTBs3-mxq4S87M",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-05-10T11:26:03Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "25. Imom al-Buxoriy 25-qism | Имом ал-Бухорий 25-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон​​ #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iz6-Vf7fSec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iz6-Vf7fSec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iz6-Vf7fSec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iz6-Vf7fSec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iz6-Vf7fSec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iz6-Vf7fSec"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vTy7NsrjT-54rIT7fDxM71DV7IE",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-05-11T06:55:58Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "26. Imom al-Buxoriy 26-qism | Имом ал-Бухорий 26-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон​​ #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ax4qJaFyz7c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ax4qJaFyz7c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ax4qJaFyz7c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ax4qJaFyz7c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ax4qJaFyz7c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ax4qJaFyz7c"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zl5SQ4V62_IWFUAZh4a09wt1_3U",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-05-12T06:45:28Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "27. Imom al-Buxoriy 27-qism | Имом ал-Бухорий 27-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон​​ #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/72EV2ja1VgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/72EV2ja1VgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/72EV2ja1VgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/72EV2ja1VgY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/72EV2ja1VgY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "72EV2ja1VgY"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R1P4aH-llIe4v_guJo-sRck0s54",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-05-13T13:47:29Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "28. Imom al-Buxoriy 28-qism | Имом ал-Бухорий 28-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон​​ #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nQp9hijtghc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nQp9hijtghc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQp9hijtghc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nQp9hijtghc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nQp9hijtghc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nQp9hijtghc"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lW_mJVIiXT2v8vUCrwet-9JSXEE",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-05-14T06:37:35Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "29. Imom al-Buxoriy 29-qism | Имом ал-Бухорий 29-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон​​ #Туҳфа\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ASwBCQOsUjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ASwBCQOsUjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ASwBCQOsUjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ASwBCQOsUjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ASwBCQOsUjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ASwBCQOsUjg"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9uOQdx9F4fajVGcYFMXlI0NMUMM",
+      "id": "UEx5czM1NnRVNWo1VHdzOUV4ZFk3eldTMEtNQjRyaHhaSi41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2021-05-15T07:38:01Z",
+        "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+        "title": "30. Imom al-Buxoriy 30-qism | Имом ал-Бухорий 30-қисм",
+        "description": "Мультсериал: Имом ал-Бухорий раҳматуллоҳи алайҳнинг ҳаётлари\n\n#Рамазон​​ #Туҳфа\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar: \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i8zq7Y_CSrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i8zq7Y_CSrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i8zq7Y_CSrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i8zq7Y_CSrQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i8zq7Y_CSrQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islom uz",
+        "playlistId": "PLys356tU5j5Tws9ExdY7zWS0KMB4rhxZJ",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i8zq7Y_CSrQ"
+        },
+        "videoOwnerChannelTitle": "Islom uz",
+        "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+      }
+    }
+  ]
+}
