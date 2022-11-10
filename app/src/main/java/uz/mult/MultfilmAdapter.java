@@ -18,10 +18,12 @@ import androidx.recyclerview.widget.RecyclerView;
 public class MultfilmAdapter extends RecyclerView.Adapter<MultfilmAdapter.MultItemHolder> {
     private JsonClasses.Root mRoot;
     private Context mContext;
+    private ClickListener mClickListener;
 
-    public MultfilmAdapter(JsonClasses.Root root, Context context) {
+    public MultfilmAdapter(JsonClasses.Root root, ClickListener clickListener, Context context) {
         mContext = context;
         this.mRoot = root;
+        this.mClickListener = clickListener;
     }
 
     @NonNull
@@ -36,14 +38,12 @@ public class MultfilmAdapter extends RecyclerView.Adapter<MultfilmAdapter.MultIt
     public void onBindViewHolder(@NonNull MultItemHolder holder, int position) {
         String imageUrl = mRoot.items.get(holder.getAdapterPosition()).snippet.thumbnails.high.url;
         Picasso.get().load(imageUrl).into(holder.getRvImageView());
-//        Glide.with(mContext).load(imageUrl).centerCrop().into(holder.getRvImageView());
+//        Glide.with(mContext).load(imageUrl).into(holder.getRvImageView());
         holder.getRvTitle().setText(mRoot.items.get(holder.getAdapterPosition()).snippet.title);
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(mContext, VideoActivity.class);
-                intent.putExtra("video_id", mRoot.items.get(holder.getAdapterPosition()).snippet.resourceId.videoId);
-                mContext.startActivity(intent);
+                mClickListener.onClick(mRoot.items.get(holder.getAbsoluteAdapterPosition()));
             }
         });
     }
